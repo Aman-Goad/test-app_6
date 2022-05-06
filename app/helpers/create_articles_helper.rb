@@ -1,0 +1,2 @@
+module CreateArticlesHelper
+end
